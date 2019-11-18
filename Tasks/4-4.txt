@@ -1,0 +1,100 @@
+1: western
+2: room
+3: willing
+4: pond
+5: blue
+6: quarter
+7: radio
+8: buffalo
+9: apart
+10: failed
+11: thou
+12: fuel
+13: star
+14: spin
+15: swing
+16: written
+17: extra
+18: It shouldn't break anything!
+19: beneath
+20: air
+21: It shouldn't break anything!
+22: solar
+23: ride
+24: simply
+25: wide
+26: trick
+27: suit
+28: successful
+29: knowledge
+30: brief
+31: club
+32: It shouldn't break anything!
+33: improve
+34: It shouldn't break anything!
+35: month
+36: radio
+37: forest
+38: It shouldn't break anything!
+39: It shouldn't break anything!
+40: came
+41: dug
+42: blanket
+43: dollar
+44: known
+45: sense
+46: chemical
+47: flat
+48: It shouldn't break anything!
+49: It shouldn't break anything!
+50: porch
+51: poem
+52: easily
+53: anyway
+54: piece
+55: throughout
+56: wagon
+57: frozen
+58: under
+59: have
+60: riding
+61: although
+62: vote
+63: today
+64: depend
+65: fierce
+66: seldom
+67: glad
+68: slowly
+69: It shouldn't break anything!
+70: can
+71: machine
+72: hospital
+73: It shouldn't break anything!
+74: slept
+75: It shouldn't break anything!
+76: It shouldn't break anything!
+77: wonder
+78: silence
+79: choose
+80: spider
+81: eye
+82: coach
+83: location
+84: It shouldn't break anything!
+85: situation
+86: price
+87: planet
+88: spider
+89: package
+90: immediately
+91: breathing
+92: brain
+93: discovery
+94: metal
+95: changing
+96: reach
+97: exercise
+98: dollar
+99: label
+100: under

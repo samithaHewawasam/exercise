@@ -1,0 +1,100 @@
+1: choose
+2: oldest
+3: series
+4: sleep
+5: It shouldn't break anything!
+6: lamp
+7: call
+8: present
+9: shoe
+10: watch
+11: bone
+12: happy
+13: shut
+14: third
+15: construction
+16: thus
+17: fresh
+18: lips
+19: nearly
+20: It shouldn't break anything!
+21: former
+22: green
+23: slight
+24: slabs
+25: information
+26: between
+27: gas
+28: eat
+29: buried
+30: under
+31: interest
+32: closely
+33: It shouldn't break anything!
+34: group
+35: concerned
+36: It shouldn't break anything!
+37: declared
+38: It shouldn't break anything!
+39: arrow
+40: friendly
+41: create
+42: within
+43: sharp
+44: older
+45: young
+46: fence
+47: stream
+48: no
+49: river
+50: someone
+51: courage
+52: guess
+53: dear
+54: rate
+55: grabbed
+56: sat
+57: barn
+58: machine
+59: baby
+60: bush
+61: would
+62: shadow
+63: It shouldn't break anything!
+64: tip
+65: because
+66: canal
+67: sent
+68: group
+69: It shouldn't break anything!
+70: went
+71: coat
+72: pole
+73: threw
+74: notice
+75: It shouldn't break anything!
+76: It shouldn't break anything!
+77: fear
+78: cream
+79: connected
+80: importance
+81: worth
+82: fun
+83: burst
+84: where
+85: It shouldn't break anything!
+86: work
+87: love
+88: chain
+89: exact
+90: mighty
+91: factor
+92: fix
+93: fifth
+94: smallest
+95: western
+96: It shouldn't break anything!
+97: It shouldn't break anything!
+98: stream
+99: It shouldn't break anything!
+100: building
